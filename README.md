@@ -33,3 +33,11 @@ Privacy information can be found at https://privacy.microsoft.com/en-us/
 
 Microsoft and any contributors reserve all others rights, whether under their respective copyrights, patents,
 or trademarks, whether by implication, estoppel or otherwise.
+
+Pool: Azure Pipelines
+Image: ubuntu-latest
+Agent: Hosted Agent
+Started: Today at 7:42 PM
+Duration: 55s
+
+Job preparation parameters
